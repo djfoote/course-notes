@@ -1,2 +1,2 @@
 # course-notes
-All my course notes ever from UC Berkeley
+Some of my course notes from UC Berkeley
